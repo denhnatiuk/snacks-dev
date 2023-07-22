@@ -1,0 +1,22 @@
+# env & secrets
+.env
+.envrc
+.envrc.*
+!.envrc.example
+*.pem
+*.key
+*.gpg
+*.pgp
+
+# temporary, backup, cache and lock files
+.temporary
+.temp
+.idea
+.#*
+*~
+~*
+*#
+*.lock
+# 
+node_modules
+vendor

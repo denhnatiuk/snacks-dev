@@ -1,0 +1,12 @@
+# Project=
+export PROJECT_NAME=
+# Justfile env=
+export GITHUB_GIST_TOKEN=
+export JUSTFILE_GIST=https://gist.githubusercontent.com/DenysHnatiuk/2807410aee9f79fe398da88a98560457/raw/29577971a0f130ee2efb6a0b15db7b5ff27d8a58/.justfile
+
+#NAS Server
+export NAS_Port="22"
+export NAS_User="user"
+export NAS_Server="server.domain"
+export Project_Type="examples"
+export NAS="user@server.domain:~/projects"
